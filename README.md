@@ -21,7 +21,8 @@ If you ever see me contemplating, there is something amazing that's happening in
 - :man_technologist:	I have 4 years of experience as a DevOps/Software Engineer over multiple technologies and domains, focused on AWS, Python, Scripting, Docker, Linux, Terraform and I am **AWS Certified Solutions Architect - Associate** Certified.
 - 💞️ I’m looking to collaborate on back end heavy projects, that's where my heart lies.
 - 📫 Reach me out on mail at rasi01@syr.edu and on LinkedIn at https://www.linkedin.com/in/rasi5050/
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasi5050)](https://github.com/anuraghazra/github-readme-stats)
 ### 
 ![Rasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasi5050&show_icons=true&theme=radical)
+</div>
