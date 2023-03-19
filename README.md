@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Rasi
-- 👀 I’m interested in backend development. I believe reasoning is the highest form of intelligence and problem solving is the key to it. My efforts are now focused on problem solving and reasoning, controlled randomness, and hence greatness.
-If you ever see me contemplating, there is something amazing that's happening in my head, but that should not hinder you from seeking my attention.
+- 🔭 I believe that the greatest form of intelligence is reasoning, and I am dedicated to becoming a master problem solver. Through a combination of focused problem-solving techniques, controlled randomness, and a commitment to excellence, I am determined to achieve greatness. So if you ever see me deep in thought, know that there is something amazing happening in my mind, but don't hesitate to seek my attention - I'm always eager to engage with others and share my insights.
+- 👀 I’m interested in backend development
 - :man_student:	 I’m currently pursuing a Master's degree in Computer Science at Syracuse University.
 - :man_technologist:	I have 4 years of experience as a DevOps/Software Engineer over multiple technologies and domains, focused on AWS, Python, Scripting, Docker, Linux, Terraform and I am **AWS Certified Solutions Architect - Associate** Certified.
-- 💞️ I’m looking to collaborate on back end heavy projects, that's where my heart lies.
+- 💞️ I am passionate about developing the backbone of complex software systems, and I'm actively seeking opportunities to collaborate on challenging back-end heavy projects
 - 📫 Reach me out on mail at rasi01@syr.edu and on LinkedIn at https://www.linkedin.com/in/rasi5050/
 <div align="center">
 
