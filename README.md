@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - :man_technologist:	I have 4 years of experience as a Software Engineer over multiple technologies and domains, focused on AWS, Python, Scripting, Docker, Linux, Terraform and I am **AWS Certified Solutions Architect - Associate** Certified.
 - 💞️ I am passionate about developing the backbone of complex software systems, and I'm actively seeking opportunities to collaborate on challenging back-end heavy projects
 - 📫 Reach me out on mail at rasi01@syr.edu and on LinkedIn at https://www.linkedin.com/in/rasi5050/
-- Please find my [Resume](https://github.com/rasi5050/rasi5050/files/12114898/FNU_RASI_RESUME.pdf)  
+- 🔖 Please find my [Resume](https://github.com/rasi5050/rasi5050/files/12114898/FNU_RASI_RESUME.pdf)  
 <div align="center">
 
 
