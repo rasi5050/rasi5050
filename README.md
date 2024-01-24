@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 - :man_student:	 I’m currently pursuing a Master's degree in Computer Science at Syracuse University.
 - :man_technologist:	I have 3 years of experience as a Software Engineer over multiple technologies and domains, focused on Python, Javascript, React, AWS, Scripting, Docker, Linux, Terraform and I am **AWS Certified Solutions Architect - Associate** Certified.
 - 💞️ I am passionate about developing the backbone of complex software systems, and I'm actively seeking opportunities to collaborate on challenging software engineering roles.
-- 📫 Reach me out on mail at rasi01@syr.edu and on LinkedIn at https://www.linkedin.com/in/rasi5050/
-- 🔖 Please find my [Resume](https://github.com/rasi5050/rasi5050/files/12114898/FNU_RASI_RESUME.pdf)
+- 📫 Reach me out on mail at ras
+i01@syr.edu and on LinkedIn at https://www.linkedin.com/in/rasi5050/
+- 🔖 Please find my [FNU_RASI_RESUME.pdf](https://github.com/rasi5050/rasi5050/files/14043690/FNU_RASI_RESUME.pdf)
   
 <div align="center">
 
